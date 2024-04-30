@@ -2,6 +2,6 @@
 	"envConfig":{
 		"envName": "uat",
 		"muleVesion": "4.6.1",
-		"cloudhubAppName": "mule-jenkins-uat"
+		"cloudhubAppName": "mule-jenkins"
 	}
 }
