@@ -2,6 +2,6 @@
 	"envConfig":{
 		"envName": "dev",
 		"muleVesion": "4.6.1",
-		"cloudhubAppName": "mule-jenkins"
+		"cloudhubAppName": "app-dev"
 	}
 }
